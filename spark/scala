@@ -1,0 +1,2 @@
+# distinct ip count
+lines.map(line => line.split(" ")(0)).map(ip => (ip,1)).reduceByKey((a, b) => a + b).collect.foreach(println)
