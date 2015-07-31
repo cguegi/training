@@ -15,7 +15,7 @@ Set up the classpath.
 
 Run the Spark application in standalone mode.
 
-	$ $SPARK_HOME/bin/spark-class ch.ymc.spark.DistinctCounter spark://http://<host>:18080 <in> <out>
+	$ $SPARK_HOME/bin/spark-class example.DistinctCounter spark://http://<host>:18080 <in> <out>
 
 **Resources**
 
