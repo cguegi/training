@@ -12,4 +12,4 @@ Copy artefact to the remote server.
 
 Execute Crunch pipeline.
 
-	$ hadoop jar /tmp/ipc-crunch-1.0-SNAPSHOT-jar-with-dependencies.jar ch.ymc.crunch.DistinctCounter <in> <out>
+	$ hadoop jar /tmp/ipc-crunch-1.0-SNAPSHOT-jar-with-dependencies.jar example.DistinctCounter <in> <out>
