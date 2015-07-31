@@ -11,4 +11,4 @@ Copy artefact to the remote server.
 
 Execute Crunch pipeline.
 
-	$ hadoop jar /tmp/ipc-mapreduce-1.0-SNAPSHOT.jar ch.ymc.mapreduce.DistinctCounter <in> <out>
+	$ hadoop jar /tmp/ipc-mapreduce-1.0-SNAPSHOT.jar example.DistinctCounter <in> <out>
