@@ -11,4 +11,4 @@ Copy artefact to the remote server.
 
 Execute Cascading topology.
 
-	$ hadoop jar /tmp/ipc-cascading-1.0-SNAPSHOT-jar-with-dependencies.jar ch.ymc.cascading.Driver <in> <out>
+	$ hadoop jar /tmp/ipc-cascading-1.0-SNAPSHOT-jar-with-dependencies.jar example.Driver <in> <out>
