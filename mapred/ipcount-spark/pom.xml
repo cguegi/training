@@ -83,7 +83,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>ch.ymc.spark.DistinctCounter</mainClass>
+							<mainClass>example.DistinctCounter</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
